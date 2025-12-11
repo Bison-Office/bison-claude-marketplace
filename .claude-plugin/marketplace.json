@@ -1,0 +1,22 @@
+{
+  "name": "bison-tools",
+  "owner": {
+    "name": "Bison Office",
+    "email": "dev@bison.office"
+  },
+  "metadata": {
+    "description": "Bison Office Claude Code plugins and skills",
+    "version": "0.1.0",
+    "pluginRoot": "../plugins"
+  },
+  "plugins": [
+    {
+      "name": "linear",
+      "source": "./plugins/linear",
+      "description": "Linear integration tools for project management",
+      "version": "0.1.0",
+      "keywords": ["linear", "project-management", "status"],
+      "category": "productivity"
+    }
+  ]
+}

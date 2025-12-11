@@ -1,0 +1,10 @@
+{
+  "name": "pricing-engine",
+  "version": "0.1.0",
+  "description": "Pricing engine project specific related tools and integrations",
+  "keywords": [
+    "pricing",
+    "amazon",
+    "engine"
+  ]
+}

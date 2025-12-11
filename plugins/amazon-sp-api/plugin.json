@@ -1,0 +1,9 @@
+{
+  "name": "amazon-sp-api",
+  "version": "0.1.0",
+  "description": "Amazon SP API references, documentation",
+  "keywords": [
+    "amazon",
+    "sp-api"
+  ]
+}

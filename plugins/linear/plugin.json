@@ -8,6 +8,9 @@
   "skills": [
     "./skills/project-status.md"
   ],
-  "keywords": ["linear", "project-management", "status"],
-  "category": "productivity"
+  "keywords": [
+    "linear",
+    "project-management",
+    "status"
+  ]
 }

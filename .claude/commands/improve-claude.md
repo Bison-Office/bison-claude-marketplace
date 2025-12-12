@@ -20,7 +20,7 @@ Then follow this diagnostic flow:
    - What Claude is currently doing wrong (or not doing)
    - Which repository they want this behavior in
 
-2. **Check existing marketplace** - Review `plugins/*/` to see if any plugin already provides the described capability or knowledge. Check skills, commands, agents within each plugin.
+2. **Check existing marketplace** - Review `.claude-plugin/marketplace.json` to see if any plugin already provides the described capability or knowledge. Check skills, commands, agents within each plugin.
 
 3. **If matching plugin exists:**
    - Ask: "Have you installed the `<plugin-name>` plugin in your target repository?"

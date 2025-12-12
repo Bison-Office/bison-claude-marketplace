@@ -25,6 +25,7 @@ In the future, we’ll introduce a more structured approach to maintaining plugi
    1. Auto registered in the code base - add a `.claude/settings.json` in the repository root
     ```json
     {
+        "enabledPlugins": { },
         "extraKnownMarketplaces": {
             "team-tools": {
                 "source": {
@@ -37,6 +38,7 @@ In the future, we’ll introduce a more structured approach to maintaining plugi
     ```
     2. `/plugin marketplace add Bison-Office/bison-claude-marketplace`
  2. `claude -> /plugin` - all available plugins should be ready for installation 
+    1. For plugins that should be always enabled when working on the codebase, you can expand `enabledPlugins: { "pricing-engine@bison-tools": true/false }` - this will install the plugin automatically and disabled/enable it based on true/false flag given
 
 
 ## Creating Plugins

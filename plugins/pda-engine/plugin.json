@@ -1,0 +1,8 @@
+{
+    "name": "pda-engine",
+    "description": "Domain knowledge for PDA Engine taxonomy mapping system - vendor imports, category/attribute mappings, and marketplace integrations",
+    "version": "1.0.0",
+    "author": {
+        "name": "Bison Office"
+    }
+}

@@ -90,14 +90,14 @@ See [STATUS-UPDATES.md](STATUS-UPDATES.md) for format.
 ## Quick Reference
 
 ```
-mcp__linear__get_project:
+linear:get_project:
   query: "Project Name"
 
-mcp__linear__update_project:
+linear:update_project:
   id: "[project-id]"
   description: "[full markdown]"
 
-mcp__linear__create_project:
+linear:create_project:
   name: "Project Name"
   team: "Team Name"
   description: "[full markdown]"

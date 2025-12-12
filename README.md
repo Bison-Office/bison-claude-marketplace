@@ -11,7 +11,7 @@ In the future, we’ll introduce a more structured approach to maintaining plugi
 ## Use claude to improve claude!
 
 1. run `claude` in repository root
-2. `/improve-claude` - use this command, which will ask you what you want to expand or how you want for claude to act differently - and it will guide you through creating you own plugin/skill/command following all best practices.
+2. `/improve-claude [plugin name]` - use this command, which will ask you what you want to expand or how you want for claude to act differently - and it will guide you through creating you own plugin/skill/command following all best practices.
    1. `/create-{component}` - for more granular control (when you know that you want to create a skill/command etc..)
 
 ## Resouces

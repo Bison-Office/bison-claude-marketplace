@@ -38,7 +38,13 @@
       "name": "bison-domain",
       "source": "./plugins/bison-domain",
       "version": "0.1.0",
-      "description": "Bison Commerce project specific related tools and integrations"
+      "description": "Bison Commerce project specific domain knowledge and related tools"
+    },
+    {
+      "name": "pda-engine",
+      "source": "./plugins/pda-engine",
+      "version": "0.1.0",
+      "description": "PDA Engine project specific related tools and integrations"
     }
   ]
 }

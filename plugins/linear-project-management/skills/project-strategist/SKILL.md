@@ -7,8 +7,8 @@ description: Reviews and improves Linear projects interactively. Use when starti
 
 ## Quick Start
 
-1. Fetch project: `mcp__linear__get_project` with project name
-2. Fetch recent issues: `mcp__linear__list_issues` with `project` and `updatedAt: "-P30D"`
+1. Fetch project: `linear:get_project` with project name
+2. Fetch recent issues: `linear:list_issues` with `project` and `updatedAt: "-P30D"`
 3. Assess against checklist below
 4. Work interactively to improve
 
@@ -42,7 +42,7 @@ description: Reviews and improves Linear projects interactively. Use when starti
 1. Ask: Purpose → Stakeholders → Success criteria → Constraints → Scope
 2. Draft structure following [PROJECT-STRUCTURE.md](PROJECT-STRUCTURE.md)
 3. Review with user, iterate
-4. Create via `mcp__linear__create_project`
+4. Create via `linear:create_project`
 
 **Creating status update:**
 1. Get last update date/content from user
@@ -58,4 +58,4 @@ description: Reviews and improves Linear projects interactively. Use when starti
 ## MCP Limitations
 
 1. Linear MCP does not expose milestones (read or write). All milestone info lives in project description. Users manually sync to Linear's native milestones.
-2. Linear MCP does not native project updates (read or write). All update info and history lives in project description. Users manyally sync to Linear's native project updates.
+2. Linear MCP does not expose native project updates (read or write). All update info and history lives in project description. Users manually sync to Linear's native project updates.

@@ -33,6 +33,12 @@
       "source": "./plugins/amazon-system-behavior",
       "version": "0.1.0",
       "description": "Amazon system behavior related tools and integrations. Contains useful insights - asnwers from amazon support"
+    },
+    {
+      "name": "bison-domain",
+      "source": "./plugins/bison-domain",
+      "version": "0.1.0",
+      "description": "Bison Commerce project specific related tools and integrations"
     }
   ]
 }

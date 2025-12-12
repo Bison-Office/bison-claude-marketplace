@@ -11,8 +11,8 @@
   },
   "plugins": [
     {
-      "name": "linear",
-      "source": "./plugins/linear"
+      "name": "linear-project-management",
+      "source": "./plugins/linear-project-management"
     },
     {
       "name": "pricing-engine",

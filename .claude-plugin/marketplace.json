@@ -14,16 +14,13 @@
       "name": "linear-project-management",
       "source": "./plugins/linear-project-management",
       "version": "0.1.2",
-      "description": "Linear integration tools for project management",
-      "keywords": [
-        "linear",
-        "project-management",
-        "status"
-      ]
+      "description": "Linear integration tools for project management"
     },
     {
       "name": "pricing-engine",
-      "source": "./plugins/pricing-engine"
+      "source": "./plugins/pricing-engine",
+      "version": "0.1.0",
+      "description": "Pricing engine project specific related tools and integrations"
     }
   ]
 }

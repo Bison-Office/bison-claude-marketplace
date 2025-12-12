@@ -1,10 +1,3 @@
 {
-  "name": "linear-project-management",
-  "version": "0.1.1",
-  "description": "Linear integration tools for project management (from plugin.json test)",
-  "keywords": [
-    "linear",
-    "project-management",
-    "status"
-  ]
+  "name": "linear-project-management"
 }

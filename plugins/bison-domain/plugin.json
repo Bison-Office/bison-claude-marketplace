@@ -1,3 +1,6 @@
 {
-  "name": "bison-domain"
+  "name": "bison-domain",
+  "skills":[
+    "./skills/accounting"
+  ]
 }

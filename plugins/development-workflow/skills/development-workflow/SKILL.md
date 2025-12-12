@@ -23,30 +23,8 @@ description: Provides complete development workflow from Linear story pickup to 
 
 1. Explore codebase, identify affected files
 2. Read `architecture-patterns` skill for the relevant project
-3. Create implementation plan (template below)
+3. Create implementation plan, use Plan sub agent
 4. Post plan as comment: `Linear:create_comment(issueId: "uuid", body: "...")`
-
-**Plan Template:**
-```markdown
-## Implementation Plan for {BIS-XXXX}: {Title}
-
-### Understanding
-[Brief summary]
-
-### Affected Areas
-- **Files to modify**: `path/file.cs` - [changes]
-- **New files**: `path/new.cs` - [purpose]
-
-### Implementation Steps
-1. [Step]
-2. [Step]
-
-### Testing Approach
-- [Verification method]
-
-### Risks
-- [Considerations]
-```
 
 ### Stage 3: User Confirmation
 

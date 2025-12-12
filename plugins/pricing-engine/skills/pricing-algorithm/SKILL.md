@@ -35,7 +35,7 @@ var weHaveBuyBox = sortedOffersByPrice
 
 ## Edge Cases & Clarifications
 
-See [MULTIPLE-BUYBOX-WINNERS.md](MULTIPLE-BUYBOX-WINNERS.md) for details on Amazon's multiple buy box winner behavior.
+Multiple offers on a listing can have buy box, thus we have to filter our own offers which has buybox and take highest priced one to determine if we have buy box or not. Then this does not impact the algorithm.
 
 ## Price Change Triggers
 

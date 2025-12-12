@@ -21,6 +21,18 @@
       "source": "./plugins/pricing-engine",
       "version": "0.1.0",
       "description": "Pricing engine project specific related tools and integrations"
+    },
+    {
+      "name": "development-workflow",
+      "source": "./plugins/development-workflow",
+      "version": "0.1.0",
+      "description": "Bison specific ways of working form a development workflow perspective"
+    },
+    {
+      "name": "amazon-system-behavior",
+      "source": "./plugins/amazon-system-behavior",
+      "version": "0.1.0",
+      "description": "Amazon system behavior related tools and integrations. Contains useful insights - asnwers from amazon support"
     }
   ]
 }

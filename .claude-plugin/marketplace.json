@@ -21,6 +21,12 @@
       "source": "./plugins/pricing-engine",
       "version": "0.1.0",
       "description": "Pricing engine project specific related tools and integrations"
+    },
+    {
+      "name": "bison-domain",
+      "source": "./plugins/bison-domain",
+      "version": "0.1.0",
+      "description": "Bison Commerce project specific related tools and integrations"
     }
   ]
 }
